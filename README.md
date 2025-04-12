@@ -1,4 +1,4 @@
-I anm going to demostrate the basics of html that i have learned.
+I am going to demostrate the basics of html that i have learned.
 -boilerplate
 -elements and their attributes
 -links and images
