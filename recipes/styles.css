@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+    color:rgb(69,12,145);
+    padding : 55px;
+    font-size: 100px;
+    
+}
+
+ul,
+ol,
+h3
+{
+    margin:auto 390px;
+    padding : 10px;
+}
+
+a{
+    font-size: 30px;
+    display: inline-block;
+    margin: 10px;
+    color: black;
+    padding: 20px ;
+    background-color :silver ;
+    border: 3px solid black;
+}
+
+img{
+    margin-left: 600px;
+    border: 10px solid black;
+}
